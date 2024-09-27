@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dropperdev" alt="dropperdev" /></a> </p>
 
-- 🔭 I’m currently working on [/COMPETITIVE-PROGRAMMING](https://github.com/DropperDEV/COMPETITIVE-PROGRAMMING)
+- 🔭 I’m currently working on AGNA CONSULTORIA, c# developer
 
-- 🌱 I’m currently learning **programming logic, algorithms, data structure**
+- 🌱 I’m currently learning **c#, sap b1s, backend**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/james-soares-costa/recent-activity/all/](https://www.linkedin.com/in/james-soares-costa/recent-activity/all/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [i am a beginner programmer, with knowledge in frontend development and studying to OBI(olympiad brazilian informatics)](i am a beginner programmer, with knowledge in frontend development and studying to OBI(olympiad brazilian informatics))
 
-- ⚡ My focus now **being expert in algorithms**
+- ⚡ My focus now **Computer Technician Internship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

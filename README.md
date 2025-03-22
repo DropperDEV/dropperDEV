@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dropperdev" alt="dropperdev" /></a> </p>
 
-- 🔭 I’m currently working on AGNA CONSULTORIA, c# developer
+- 🔭 I’m currently working on AGNA CONSULTORIA, Web developer
 
-- 🌱 I’m currently learning **c#, sap b1s, backend**
+- 🌱 I’m currently learning **NestJS,Node.JS,NextJS,ReactJS**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/james-soares-costa/recent-activity/all/](https://www.linkedin.com/in/james-soares-costa/recent-activity/all/)
 
-- 💬 Ask me about **javascript and typescript, c++, reactjs, sql, css, html**
+- 💬 Ask me about **javascript and typescript, reactjs, sql, css, html**
 
 - 📫 How to reach me **jamescosta4747@gmail.com**
 
-- 📄 Know about my experiences [i am a beginner programmer, with knowledge in frontend development and studying to OBI(olympiad brazilian informatics)](i am a beginner programmer, with knowledge in frontend development and studying to OBI(olympiad brazilian informatics))
+- 📄 Know about my experiences [I am a web developer with experience in frontend and backend development, working with technologies like JavaScript, Flutter, C#, and Node.js. I am also studying 'Análise e Desenvolvimento de Sistemas' at Estácio and have experience with ERP SAP B1.](I am a web developer with experience in frontend and backend development, working with technologies like JavaScript, Flutter, C#, and Node.js. I am also studying 'Análise e Desenvolvimento de Sistemas' at Estácio and have experience with ERP SAP B1.)
 
-- ⚡ My focus now **Computer Technician Internship**
+- ⚡ My focus now **Junior fullstack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
